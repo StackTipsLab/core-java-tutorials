@@ -1,4 +1,4 @@
-package com.stacktips.designpatterns;
+package com.stacktips.designpatterns.singleton;
 
 import java.util.Scanner;
 
